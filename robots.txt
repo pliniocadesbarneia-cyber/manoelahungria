@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pliniocadesbarneia-cyber.github.io/manoelahungria/sitemap.xml
